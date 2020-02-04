@@ -1,0 +1,55 @@
+.desk{
+	width: 75px; 
+	height: 90px;
+	border: 4px;
+	border-color: black;
+}
+
+.red{
+	background: red; 
+	width: 5px; 
+	height: 5px;
+	float: left;
+}
+
+.white{
+	background: white; 
+	width: 5px; 
+	height: 5px;
+	float: left;
+}
+
+.brown{
+	background: brown; 
+	width: 5px; 
+	height: 5px;
+	float: left;
+}
+
+.blue{
+	background: blue; 
+	width: 5px; 
+	height: 5px;
+	float: left;
+}
+
+.skin{
+	background: #D2B48C; 
+	width: 5px; 
+	height: 5px;
+	float: left;
+}
+
+.black{
+	background: black;
+	width: 5px;
+	height: 5px;
+	float: left;
+}
+
+.yellow{
+	background: yellow;
+	width: 5px;
+	height: 5px;
+	float: left;
+}
