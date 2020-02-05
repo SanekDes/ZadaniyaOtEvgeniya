@@ -1,0 +1,32 @@
+.desk{
+	width: 865px; 
+	height: 865px;
+	border: 4px double black;
+	border-color: black;
+}
+
+.white{ 
+	width: 100px; 
+	height: 100px;
+	border: 4px inset black;
+	border-color: black;
+    background: white;
+		float: left;
+}
+
+.black{
+	width: 100px;
+	height: 100px;
+	border: 4px inset white;
+	border-color: white;
+	background: black;
+	float: left;
+}
+
+.black:hover {
+	background-color: white;
+}
+
+.white:hover{
+	background-color: black;
+}
