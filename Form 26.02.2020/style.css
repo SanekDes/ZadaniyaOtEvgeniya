@@ -1,0 +1,33 @@
+body{
+  font-family: helvetica, arial, sans-serif;
+  width: 100%;
+  text-align: center;
+}
+
+button{
+	width: 150px;
+	height: 80px;
+	background-color: #d70947;
+	color: white;
+}
+
+h2{
+	padding-top: 15px;
+}
+input[type='radio'] {
+	margin-top: 10px;
+	width: 20px;
+	height: 20px;
+}
+
+.Red:hover{
+	background-color: #a60b3a;
+}
+
+.White:hover{
+	background-color: #a60b3a;
+}
+
+.Black:hover{
+	background-color: #a60b3a;
+}
