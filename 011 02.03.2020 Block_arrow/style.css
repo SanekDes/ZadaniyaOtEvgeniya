@@ -1,0 +1,148 @@
+body{
+  font-family: helvetica, arial, sans-serif;
+  margin: 0;
+}
+
+.image{
+	width: 1000px;
+	height: 750px;
+	margin: 0 auto
+}
+
+.size_image{
+	width:470px;
+	height: 360px;
+	margin: -5px;
+}
+
+.block_top_left{
+	word-spacing: 5px;
+	color: white;
+	padding: 0px 20px;
+	width: 400px;
+	height: 250px;
+	position: absolute;
+	line-height: 25px;
+}
+
+.block_top_right{
+	margin-left: 470px; 
+	word-spacing: 5px;
+	padding: 0px 20px;
+	width: 400px;
+	height: 250px;
+	position: absolute;
+	line-height: 25px;
+}
+
+.block_bottom_left{
+	position: absolute;
+}
+
+.block_text_bottom_left{
+	margin-left: 50px; 
+	margin-top: 25px;
+	width: 400px;
+	position: absolute;
+
+}
+
+.text_for_icon{
+	line-height: 20px;
+}
+
+.block_bottom_right{
+	color: white;
+	margin-left: 470px; 
+	word-spacing: 5px;
+	padding: 0px 20px;
+	width: 400px;
+	position: absolute;
+	line-height: 25px;
+	position: absolute;
+}
+
+.block_text_bottom_right_left{ 
+	margin-top: 5px;
+	width: 160px;
+	height: 240px;
+	position: absolute;
+}
+
+.block_text_bottom_right_right{
+
+	margin-left: 200px; 
+	margin-top: 25px;
+	width: 200px;
+	height: 240px;
+	position: absolute;
+}
+
+.text_for_icon_right{
+	line-height: 28px;
+	margin-left: 30px;
+}
+
+.text_for_icon_left{
+	line-height: 28px;
+	margin-left: 30px;
+
+}
+
+#joomla1{
+	margin-top: 23px;
+}
+
+#joomla2{
+	margin-top: 5px;
+}
+
+#joomla3{
+	margin-top: 7px;
+}
+
+#joomla4{
+	margin-top: 8px;
+}
+
+#joomla5{
+	margin-top: 23px;
+}
+
+#joomla6{
+	margin-top: 5px;
+}
+
+#joomla7{
+margin-top:5px;
+}
+
+#joomla8{
+	margin-top: 5px;
+}
+
+a{
+	color:#840000;
+	text-decoration: none;
+}
+
+.icon_size{
+	width: 19px;
+	padding: 40px 20px;
+}
+
+.icon_size_right_left{
+	float: left;
+	width: 19px;
+	position: absolute;
+}
+
+.icon_right{
+	position: absolute;
+}
+
+.icon{
+	width: 19px;
+	height: 17px;
+	margin-bottom: 15px;
+}
