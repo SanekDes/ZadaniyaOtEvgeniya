@@ -1,0 +1,50 @@
+body{
+  font-family: helvetica, arial, sans-serif;
+  margin: 0;
+}
+
+p{
+	line-height: 5px;
+	margin: 0px;
+}
+
+.container{
+	width: 835px;
+	height: 470px;
+	margin: 0 auto;
+}
+
+.text{
+	width: 650px;
+	height: 55px;
+	line-height: 25px;
+}
+
+.code{
+	width: 790px;
+	height: 225px;
+	padding: 20px;
+	background-color: #282c35; 
+	border-radius: 10px;
+	color: white;
+}
+
+#comment{
+	color:#5b626a;
+}
+
+#blue{
+	color:#6d9ac3;
+}
+
+#pink{
+	color:#c082cf;
+}
+
+.green{
+	color:#53704c;
+}
+
+.arrow{
+	color:#006e8f;
+}
