@@ -29,10 +29,12 @@ img{
 	margin: 15px;
 }
 
-.button:hover{
+a:hover{
 	background-color: orange;
-    transition: .2s linear;
+    transition: .5s linear; 
 }
+
+
 
 a{
 	font-family: Montserrat semibold;
@@ -46,4 +48,5 @@ a{
 	width: 370px;
 	height: 50px;
 	display: block;
+    transition: .5s linear; 
 }
