@@ -1,0 +1,56 @@
+body{
+	background-color: #e1e1e1;
+}
+
+.container{
+	padding-top: 12px;
+	width: 810px;
+	margin: 0 auto;
+}
+
+.top_text{
+	font-family: "Playfair Display", serif;
+	text-align: center;	
+	font-size: 24px;
+
+}
+
+.block_col_1, .block_col_2, .block_col_3, .block_col_4 {  
+	width: 180px;
+	height: 270px;
+	background-color: white;
+	margin: 20px 11px;
+	float: left;
+}
+
+.icon{
+	width: 45px;
+	height: 45px;
+	display: block;
+	padding-top: 28px;
+	padding-bottom: 5px;
+	margin: auto;
+}
+
+.main_text{
+	font-family: "Raleway", sans-serif;
+	margin: 20px;
+}
+
+#text{
+	margin-top: -10px;
+	font-size: 11px; 
+	line-height: 15px;
+}
+
+hr{
+	width: 40px;
+	margin-top: 25px;
+	margin-left: 20px;
+	float: left;
+	border-color: yellow;
+}
+
+#hr3{
+	margin-top: 10px;
+}
