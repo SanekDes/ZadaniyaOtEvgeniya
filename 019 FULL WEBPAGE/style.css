@@ -1,0 +1,361 @@
+body{
+	margin: 0;
+}
+
+
+.header{
+	background: url(bcr_01.jpg) 
+	center no-repeat;
+	background-size: cover;
+	height: 488px;
+}
+
+.container{
+	margin: 0 auto;
+	width: 1010px;
+}
+
+#logo{
+	font-family: Mrs Eaves OT Italic;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-bottom: 0px; 
+	font-size: 118px;
+	color:white;
+	float: left;
+}
+
+.nav{
+	padding-top: 50px;
+	padding-left: 470px; 
+}
+
+.nav_link{
+	font-family: Segoe WP Light;
+	font-size: 22.63px;
+	display: inline-block;
+	margin: 0 25px;
+	text-decoration: none;
+	color:white;
+}
+
+.banner{	
+	width: 780px;
+	margin: 0 auto;
+	margin-top: 120px;
+}
+
+.text{
+	margin-top: 35px;
+	width: 380px;
+	float: right;
+	line-height: 70px;
+}
+
+#text_h1{
+	font-family: Segoe WP SemiBold;
+	margin: 0 auto;	
+	font-size: 64px;
+	color: #ffffff;
+}
+
+#main_text_banner{
+	font-family: Segoe WP Light;
+	font-size: 44.63px;
+	margin: 0 auto;
+	color: #fff;
+}
+
+.button_banner{
+	width: 140px;
+	height: 40px;
+	background-color: #2b7552;
+	margin-top: 16px;
+	margin-left: 10px;
+	display: block;
+	text-align: center;
+	line-height: 40px; 
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+#button_banner_id{
+	font-family: Segoe WP Light;
+	color: #fff;
+	font-size: 22.63px;
+	text-decoration: none;
+}
+
+.section{
+	width: 1064px;
+	height: 330px;
+	margin: 0 auto;
+	padding-top: 65px;
+}
+
+.Responsive, .Commerce, .Blog, .Based{
+	margin: 0 10px;
+	padding-top: 30px;
+	text-align: center;
+	width: 245px;
+	height: 300px;
+	float: left;
+	z-index: 1000;
+}
+
+.icon{
+	width: 133px;
+	height: 150px;
+}
+
+.icon_name{
+	padding-top: 10px;
+	font-family: Segoe WP Light;
+	font-size: 26.63px;
+	margin: 0px;
+}
+
+.icon_secon_name{
+	font-family: Segoe WP Light;
+	font-size: 22.63px;
+	margin: 0px;
+}
+
+.Commerce{
+	box-shadow: -2px -1px 2px rgba(0,0,0,0.15), 
+    2px -1px 2px rgba(0,0,0,0.15);
+    background-color: white;
+}
+
+#commerce{
+	font-family: Segoe WP SemiBold;
+}
+
+.section2{
+	margin: 0 auto;
+	padding: 55px;
+	padding-top: 0px;
+	width: 910px;
+	height: 700px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.15); 
+	text-align: center;
+}
+
+.main_text_section2{
+	font-family: Segoe WP Light; 
+	text-align: left;
+	font-size: 14px;
+	line-height: 1.7;
+}
+
+#text_section2{
+	margin-top: 0px;
+	font-family: Segoe WP Light;
+	font-size: 38.63px;
+}
+
+.section3{
+	margin: 0 auto;
+	padding-top: 25px;
+	width: 1024px;
+	height: 415px;
+}
+
+#image_screen{
+	float: left;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.15); 
+}
+
+.block{
+	width: 515px;
+	float: right;
+}
+
+#Why{
+	font-family: Segoe WP Light;
+	font-size: 32.63px;
+	margin-top: 24px;
+	margin-bottom: 0px;
+}
+
+.list{
+	font-family: Segoe WP Light;
+	float: none;
+	width: 620px;
+	font-size: 16px;
+}
+
+li{
+	list-style-image: url(Group-3.png);
+	line-height: 38px;
+}
+
+.acc{
+	margin: 5px;
+	width: 18px;
+}
+
+.section4{
+	width: 1024px;
+	height: 125px;
+	margin: 0 auto;
+}
+
+.member_login{
+	border-radius: 6px;
+	width: 450px;
+	height: 90px;
+	background-color: #e67624;
+	padding: 8px;
+	padding-right: 15px;
+	margin-right: 0px;
+	float: left;
+}
+
+#Member{
+	font-family: Segoe WP Light;
+	font-size: 28px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+	color: #fff;
+	padding-left: 18px; 
+}
+
+input[type="text"], input[type="password"]{
+	font-family: Segoe WP Light;
+	font-size: 16px;
+	width: 150px;
+	height: 20px;
+	margin-left: 15px;
+}
+
+.button_member{
+	font-family: Segoe WP Light;
+	width: 95px;
+	height: 28px;
+	display: block;
+	background-color: #444444;
+	color: #fff;
+	text-decoration: none;
+	text-align:center;
+	line-height: 30px;
+	float: right; 
+}
+
+.subscribe_email{
+	border-radius: 6px;
+	width: 450px;
+	height: 90px;
+	background-color: #01d4f3;
+	padding: 8px;
+	padding-right: 15px;
+	float: right;
+}
+
+#Subscribe{
+	font-family: Segoe WP Light;
+	font-size: 28px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+	color: #fff;
+	padding-left: 18px; 
+}
+
+input[type="email"]{
+	font-family: Segoe WP Light;
+	font-size: 16px;
+	width: 250px;
+	height: 20px;
+	margin-left: 15px;
+}
+
+.button_subs{
+	font-family: Segoe WP Light;
+	width: 95px;
+	height: 28px;
+	display: block;
+	background-color: #029bb1;
+	color: #fff;
+	text-decoration: none;
+	text-align:center;
+	line-height: 30px;
+	float: right; 
+}
+
+.footer{
+	height: 245px;
+	background-color: #2c272d;
+}
+
+.About_Us{
+	margin-left: 35px;
+	width: 125px;
+	height: 170px;
+	float: left;
+}
+
+.footer_size{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.footer_about{
+	font-family: Segoe WP Light;
+	font-size: 22px;
+	color: #fff;
+	padding-top: 25px;
+	margin-bottom: 5px;
+}
+
+.footer_about_mode{
+	font-family: Arial Regular; 
+	color:#9e9e9e;
+	font-size: 13px;
+	text-decoration: none;
+	line-height: 1.8;
+}
+
+.About_Us2{
+	margin-left: 65px;
+	width: 125px;
+	height: 170px;
+	float: left;
+}
+
+.testimoanials{
+	margin-top: 25px;
+	margin-left: 65px;
+	width: 325px;
+	height: 180px;
+	float: left;
+}
+
+.footer_testimoanials{
+	font-family: Segoe WP Light;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom: 0px;
+}
+
+.footer_testimoanials_text{
+	font-family: Arial Regular;
+	font-size: 13px;
+	color:#9e9e9e;
+	line-height: 1.7;
+	margin-bottom: 0px;
+}
+
+.footer_lorem{
+	margin-top: 0px;
+	font-family: Arial Bold;
+	font-size: 13px;
+	color: #c7c7c7;
+	text-decoration: none; 
+}
+
+#logo_footer{
+		font-family: Mrs Eaves OT Italic;
+	font-size: 118px;
+	color: #5a5a5a;
+	line-height: 0px;
+	float: left;
+}
