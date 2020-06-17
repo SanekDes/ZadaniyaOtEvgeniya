@@ -1,0 +1,590 @@
+body{
+	margin: 0;
+	background-color: #000;
+	color: white;
+	font-family: inherit;
+}
+
+
+.header{
+	background: url(nb-gaming-award-bg.jpg)
+	center no-repeat;
+	background-size: cover;
+	height: 488px;
+}
+
+.container{
+	margin: 0 auto;
+	width: 1010px;
+}
+
+#logo{
+	font-family: Mrs Eaves OT Italic;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+	font-size: 50px;
+	color:white;
+	float: left;
+	text-decoration: none;
+}
+
+.nav{
+	padding-top: 50px;
+	padding-left: 650px;
+}
+
+.nav_link{
+	font-family: Segoe WP Light;
+	font-size: 22.63px;
+	display: inline-block;
+	margin: 0 10px;
+	text-decoration: none;
+	color:white;
+	height: 40px;
+}
+
+.nav_link:hover{
+	border-bottom: 4px solid red;
+	transition:.4s;
+}
+
+
+.text{
+	margin-top: 35px;
+	width: 380px;
+	float: right;
+	line-height: 70px;
+}
+
+#text_h1{
+	font-family: Segoe WP SemiBold;
+	margin: 0 auto;
+	font-size: 64px;
+	color: #ffffff;
+}
+
+#main_text_banner{
+	font-family: Segoe WP Light;
+	font-size: 44.63px;
+	margin: 0 auto;
+	color: #fff;
+}
+
+.button_banner{
+	width: 140px;
+	height: 40px;
+	background-color: #2b7552;
+	margin-top: 16px;
+	margin-left: 10px;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+#button_banner_id{
+	font-family: Segoe WP Light;
+	color: #fff;
+	font-size: 22.63px;
+	text-decoration: none;
+}
+
+.section{
+	width: 1064px;
+	height: 345px;
+	margin: 0 auto;
+
+}
+
+.Responsive, .Commerce, .Blog, .Based{
+	margin: 0 10px;
+	padding-top: 30px;
+	text-align: center;
+	width: 245px;
+	height: 300px;
+	float: left;
+	z-index: 1000;
+}
+
+.icon{
+	width: 133px;
+	height: 150px;
+}
+
+.icon2{
+	width: 90px;
+	height: 150px;
+}
+
+.icon3{
+	width: 200px;
+	height: 150px;
+}
+
+.icon4{
+	width: 150px;
+	height: 150px;
+}
+
+.icon_name{
+	font-family: inheritance_font;
+	padding-top: 10px;
+	font-size: 26.63px;
+	margin: 0px;
+	color: #ff0101;
+}
+
+#commerce{
+	font-family: Segoe WP SemiBold;
+}
+
+.border{
+	width: 100%;
+	border-top: 4px inset red;
+}
+
+.section2{
+	margin: 0 auto;
+	padding: 55px;
+	padding-top: 100px;
+	width: 910px;
+	height: 940px;
+	text-align: center;
+}
+
+.section2_width{
+	width: 100%;
+	background-color: #101010;
+	border-bottom: 4px inset red;
+
+}
+
+.main_text_section2{
+	font-family: Segoe WP Light;
+	text-align: left;
+	font-size: 20px;
+	line-height: 1.7;
+}
+
+#text_section2{
+	margin-top: 0px;
+	font-family: Segoe WP Light;
+	font-size: 38.63px;
+}
+
+.section3{
+	margin: 0 auto;
+	padding-top: 80px;
+	width: 1064px;
+	height: 600px;
+}
+
+#image_screen{
+	float: left;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.15);
+}
+
+.block{
+	width: 515px;
+	float: right;
+}
+
+#Why{
+	font-family: Segoe WP Light;
+	font-size: 32.63px;
+	margin-top: 24px;
+	margin-bottom: 0px;
+}
+
+.list{
+	font-family: Segoe WP Light;
+	float: none;
+	width: 620px;
+	font-size: 16px;
+}
+
+li{
+	list-style-image: url(Group-3.png);
+	line-height: 38px;
+}
+
+.acc{
+	margin: 5px;
+	width: 18px;
+}
+
+.section4{
+	width: 1024px;
+	height: 125px;
+	margin: 0 auto;
+}
+
+.member_login{
+	border-radius: 6px;
+	width: 450px;
+	height: 90px;
+	background-color: #e67624;
+	padding: 8px;
+	padding-right: 15px;
+	margin-right: 0px;
+	float: left;
+}
+
+#Member{
+	font-family: Segoe WP Light;
+	font-size: 28px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+	color: #fff;
+	padding-left: 18px;
+}
+
+input[type="text"], input[type="password"]{
+	font-family: Segoe WP Light;
+	font-size: 16px;
+	width: 150px;
+	height: 20px;
+	margin-left: 15px;
+}
+
+.button_member{
+	font-family: Segoe WP Light;
+	width: 95px;
+	height: 28px;
+	display: block;
+	background-color: #444444;
+	color: #fff;
+	text-decoration: none;
+	text-align:center;
+	line-height: 30px;
+	float: right;
+}
+
+.subscribe_email{
+	border-radius: 6px;
+	width: 450px;
+	height: 90px;
+	background-color: #01d4f3;
+	padding: 8px;
+	padding-right: 15px;
+	float: right;
+}
+
+#Subscribe{
+	font-family: Segoe WP Light;
+	font-size: 28px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+	color: #fff;
+	padding-left: 18px;
+}
+
+input[type="email"]{
+	font-family: Segoe WP Light;
+	font-size: 16px;
+	width: 250px;
+	height: 20px;
+	margin-left: 15px;
+}
+
+.button_subs{
+	font-family: Segoe WP Light;
+	width: 95px;
+	height: 28px;
+	display: block;
+	background-color: #029bb1;
+	color: #fff;
+	text-decoration: none;
+	text-align:center;
+	line-height: 30px;
+	float: right;
+}
+
+.footer{
+	height: 245px;
+	background-color: #2c272d;
+}
+
+.About_Us{
+	margin-left: 35px;
+	width: 125px;
+	height: 170px;
+	float: left;
+}
+
+.footer_size{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.footer_about{
+	font-family: Segoe WP Light;
+	font-size: 22px;
+	color: #fff;
+	padding-top: 25px;
+	margin-bottom: 5px;
+}
+
+.footer_about_mode{
+	font-family: Arial Regular;
+	color:#9e9e9e;
+	font-size: 13px;
+	text-decoration: none;
+	line-height: 1.8;
+}
+
+.About_Us2{
+	margin-left: 65px;
+	width: 125px;
+	height: 170px;
+	float: left;
+}
+
+.testimoanials{
+	margin-top: 25px;
+	margin-left: 65px;
+	width: 325px;
+	height: 180px;
+	float: left;
+}
+
+.footer_testimoanials{
+	font-family: Segoe WP Light;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom: 0px;
+}
+
+.footer_testimoanials_text{
+	font-family: Arial Regular;
+	font-size: 13px;
+	color:#9e9e9e;
+	line-height: 1.7;
+	margin-bottom: 0px;
+}
+
+.footer_lorem{
+	margin-top: 0px;
+	font-family: Arial Bold;
+	font-size: 13px;
+	color: #c7c7c7;
+	text-decoration: none;
+}
+
+#logo_footer{
+		font-family: Mrs Eaves OT Italic;
+	font-size: 118px;
+	color: #5a5a5a;
+	line-height: 0px;
+	float: left;
+}
+
+.contact_section{
+	width: 1064px;
+	height: 345px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+.contact_p{
+	font-size: 40px;
+}
+
+* {box-sizing: border-box;}
+body{margin: 0;}
+form {
+	position: relative;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.d1 input {
+	width: 100%;
+	height: 42px;
+	padding-left: 10px;
+	border: 2px solid #7BA7AB;
+	border-radius: 5px;
+	outline: none;
+	color: #9E9C9C;
+}
+.d1 button {
+	position: absolute;
+	top: 0;
+	right: 0px;
+	width: 42px;
+	height: 42px;
+	border: none;
+	background: #7BA7AB;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+}
+.d1 button:before {
+	content: "\f002";
+	font-family: FontAwesome;
+	font-size: 16px;
+	color: #F9F0DA;
+}
+
+.feedback{
+	max-width: 32em;
+	margin: 0 auto;
+	padding: 1.2em;
+	margin-bottom: 75px;
+}
+
+.feedback_form{
+	margin:0 auto;
+	max-width:95%;
+	padding:40px;
+	border-radius:5px;
+	background:#101010;
+	box-shadow:  0px 0px 15px 0px rgba(0, 0, 0, .45);
+}
+
+.textbox{
+	background: #494949;
+	height:50px;
+	width:100%;
+	border-radius:3px;
+	border:rgba(0,0,0,.3) 2px solid;
+	box-sizing:border-box;
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	padding:10px;
+	margin-bottom:30px;
+}
+.message:focus,
+.textbox:focus{
+	outline:none;
+	border:rgba(24,149,215,1) 2px solid;
+
+}
+
+.message{
+	background: #494949;
+	width:100%;
+	height: 120px;
+	border:rgba(0,0,0,.3) 2px solid;
+	box-sizing:border-box;
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 3px;
+	display:block;
+	padding:10px;
+	margin-bottom:30px;
+	overflow:hidden;
+}
+
+.button{
+	height:50px;
+	width:100%;
+	border-radius:3px;
+	border:rgba(0,0,0,.3) 0px solid;
+	box-sizing:border-box;
+	padding:10px;
+	background:#7BA7AB;
+	color:#FFF;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	font-size: 16pt;
+	transition:background .4s;
+	cursor:pointer;
+}
+
+.button:hover{
+	background:#5D8A8C;
+}
+
+.feedback_name_form{
+	padding-top: 20px;
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.name_form{
+	text-align: center;
+}
+
+.section_size{
+	width: 1150px;
+	height: 900px;
+	margin: 0 auto;
+}
+
+.productcard {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin-right: 35px;
+	margin-top: 35px;
+}
+
+.productcard {
+	background-color: transparent;
+	border-radius: 4px;
+	box-shadow: inset 0 0 0 1px #1a1a1a;
+	box-sizing: border-box;
+	overflow: hidden;
+	padding: 0 20px;
+	-webkit-transition: box-shadow 1250ms;
+	transition: box-shadow 1250ms;
+}
+
+.productcard:after,
+.productcard:before {
+	border: 1px solid transparent;
+	box-sizing: inherit;
+	content: '';
+	height: 0;
+	position: absolute;
+	width: 0;
+	z-index: 1;
+}
+
+.productcard.focus,
+.productcard:focus,
+.productcard.hover,
+.productcard:hover {
+	box-shadow: inset 0 0 0 1px #f00;
+}
+
+.productcard:hover:after {
+	border-bottom-color: #f00;
+	border-left-color: #f00;
+	-webkit-transition: border-color 0s ease-out 500ms, width 250ms ease-out 500ms, height 250ms ease-out 750ms;
+	transition: border-color 0s ease-out 500ms, width 250ms ease-out 500ms, height 250ms ease-out 750ms;
+}
+
+.image_product{
+	width: 200px;
+	height: 200px;
+}
+
+.text_product{
+	text-align: center;
+}
+
+.text_product_setting{
+text-transform: uppercase;
+}
+
+.about_us_product{
+	font-size: 11px;
+}
+
+.button_product{
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 100px;
+	height: 40px;
+	text-align: center;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+	border-radius: 5px;
+	color: white;
+	line-height: 40px;
+	background-color: #303030;
+}
